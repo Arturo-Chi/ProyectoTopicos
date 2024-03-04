@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoCalcuMaster/1.0.0": {
+        "runtime": {
+          "ProyectoCalcuMaster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoCalcuMaster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

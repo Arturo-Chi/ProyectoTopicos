@@ -65,6 +65,7 @@
             // 
             // btn_tabla1
             // 
+            btn_tabla1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btn_tabla1.BackColor = Color.FromArgb(255, 224, 192);
             btn_tabla1.BackgroundImage = (Image)resources.GetObject("btn_tabla1.BackgroundImage");
             btn_tabla1.BackgroundImageLayout = ImageLayout.Stretch;
@@ -151,7 +152,7 @@
             btn_menu.BackgroundImageLayout = ImageLayout.Stretch;
             btn_menu.FlatStyle = FlatStyle.Flat;
             btn_menu.ForeColor = Color.MidnightBlue;
-            btn_menu.Location = new Point(47, 41);
+            btn_menu.Location = new Point(42, 41);
             btn_menu.Name = "btn_menu";
             btn_menu.Size = new Size(80, 49);
             btn_menu.TabIndex = 15;
